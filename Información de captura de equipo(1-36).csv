@@ -1,5 +1,4 @@
-ID,Unidad del equipo,Subdirección del plantel,Nombre del departamento,Nombre de la oficina o área,Nombre del usuario o persona,"Marca del gabinete
-",Modelo,Serie,Número de Inventario,Modelo CPU,Modelo específico del CPU,Modelo memoria RAM,Capacidad de memoria RAM,Tipo de disco duro,Capacidad de almacenamiento secundario,Color del gabinete
+ID,Unidad del equipo,Subdirección del plantel,Nombre del departamento,Nombre de la oficina o área,Nombre del usuario o persona,Marca del gabinete,Modelo,Serie,Número de Inventario,Modelo CPU,Modelo específico del CPU,Modelo memoria RAM,Capacidad de memoria RAM,Tipo de disco duro,Capacidad de almacenamiento secundario,Color del gabinete
 1,Tomas Aquino,Administrativo,Recursos Humanos,Oficinas RH,Estela,LANIX,Titan HX 4310E,00186-740-390-216,I1800002201402302,Intel Core 5 series,4590,DDR3,4,HDD,512,Negro
 2,Tomas Aquino,Administrativo,Recursos Humanos,Oficinas ,Miriam Gómez,Dell,Optiplex 780,3P42WL1,I1800002201002279,Intel Core Duo,E7500,DDR3,4,SSD,480 GB,Negro
 3,Tomas Aquino,Administrativo,Recursos Humanos,Oficinas,Jefa del dpto?,Dell,Optiplex 780,BCMXTL1,I1800000961002798,Intel Core Duo,E7500,DDR3,4,SSD,480 GB,Gris
@@ -30,7 +29,7 @@ ID,Unidad del equipo,Subdirección del plantel,Nombre del departamento,Nombre de 
 28,Tomas Aquino,Planeacion,Gestión y Vinculación ,Oficina Jefe Dpto,??,HP Inc,All in one blanca,N/A,I18000006417022,Otro (especificar en sig. pregunta),Desconocido,DDR3,8,HDD,500 GB,Blanco
 29,Tomas Aquino,Planeacion,Gestión y Vinculación ,Oficina Jefe Dpto,???,HP Inc,All in one,N/A,I18000006417021,Otro (especificar en sig. pregunta),Desconocido,DDR3,8,HDD,500 GB,Blanco
 30,Tomas Aquino,Planeacion,Gestión y Vinculación ,Oficina siguiente Jefe,Rubicela Juárez,LANIX,Titan HX 4310E,4.28E+17,N/A,Intel Core 5 series,4590,DDR3,8,HDD,1 TB ,Negro
-31,Tomas Aquino,Planeacion,Gestión y Vinculación ,Oficina Sig Jefe ,Oficina Servicio Social,Dell,OptiPlex 3029,2YRT382,I1800000641502372,Intel Core 5 series,4590,DDR3,8,HDD,1 TB ,Negro
+31,Tomas Aquino,Planeacion,Gestión y Vinculación ,Oficina Sig Jefe ,Oficina Servicio Social,Dell,OptiPlex 3020,2YRT382,I1800000641502372,Intel Core 5 series,4590,DDR3,8,HDD,1 TB ,Negro
 32,Tomas Aquino,Planeacion,Gestión y Vinculación ,Oficina Ana y Karen,Karen,HP Inc,Compaq 6200 Pro,MXL1500MZF,N/A,Intel Core 3 series,2120,DDR3,8,SSD,480 GB,Negro
 33,Tomas Aquino,Planeacion,Gestión y Vinculación ,Oficina Ana y Karen,Ana,LANIX,Titan HX 4310E,4.28E+17,I1800002201402316,Intel Core 5 series,4590,DDR3,16,SSD,480 GB,Negro
 34,Tomas Aquino,Planeacion,Gestión y vinculación ,Oficina Entrada,Marisol,HP Inc,Compaq 6200 Pro,MXL1500MYV,N/A,Intel Core 3 series,2120,DDR3,12,HDD,500 GB,Negro
