@@ -1,12 +1,12 @@
-ID,Unidad del equipo,Subdirección del plantel,Nombre del departamento,Nombre de la oficina o área,Nombre del usuario o persona,Marca del gabinete,Modelo,Serie,Número de Inventario,Modelo CPU,Modelo específico del CPU,Modelo memoria RAM,Capacidad de memoria RAM,Tipo de disco duro,Capacidad de almacenamiento secundario,Color del gabinete
+ID,Unidad del equipo,Subdireccion del plantel,Nombre del departamento,Nombre de la oficina o área,Nombre del usuario o persona,Marca del gabinete,Modelo,Serie,Número de Inventario,Modelo CPU,Modelo específico del CPU,Modelo memoria RAM,Capacidad de memoria RAM,Tipo de disco duro,Capacidad de almacenamiento secundario,Color del gabinete
 1,Tomas Aquino,Administrativo,Recursos Humanos,Oficinas RH,Estela,LANIX,Titan HX 4310E,00186-740-390-216,I1800002201402302,Intel Core 5 series,4590,DDR3,4,HDD,512,Negro
-2,Tomas Aquino,Administrativo,Recursos Humanos,Oficinas ,Miriam Gómez,Dell,Optiplex 780,3P42WL1,I1800002201002279,Intel Core Duo,E7500,DDR3,4,SSD,480 GB,Negro
+2,Tomas Aquino,Administrativo,Recursos Humanos,Oficinas ,Miriam Gomez,Dell,Optiplex 780,3P42WL1,I1800002201002279,Intel Core Duo,E7500,DDR3,4,SSD,480 GB,Negro
 3,Tomas Aquino,Administrativo,Recursos Humanos,Oficinas,Jefa del dpto?,Dell,Optiplex 780,BCMXTL1,I1800000961002798,Intel Core Duo,E7500,DDR3,4,SSD,480 GB,Gris
 4,Tomas Aquino,Administrativo,Recursos Humanos,Oficinas,Jefa de departamento?,Dell,Optiplex 780,HPYCWL1,I1800002201002288,Intel Core Duo,E7500,DDR3,4,HDD,500 GB,Gris
 5,Tomas Aquino,Administrativo,Recursos Humanos,Oficinas,??,LANIX,Titan HX 4310E,00186-740-031-367,I1800002201402321,Intel Core 5 series,4590,DDR3,16,SSD,480 GB,Negro
 6,Tomas Aquino,Administrativo,Recursos Humanos,Oficinas,???,Dell,Optiplex 780,13X9XL1,I1800002201002350,Intel Core Duo,E7500,DDR3,4,HDD,500 GB,Negro
 7,Tomas Aquino,Administrativo,Recursos Humanos,Área frente a la entrada (7-8),????,Dell,Optiplex 780,6SBDWL1,I1800002201002178,Intel Core Duo,E7500,DDR3,8,SSD,480 GB,Gris
-8,Tomas Aquino,Administrativo,Recursos Humanos,Frente entrada (7-8),Rosa X?,Dell,Optiplex780,92X9XL1,I1800002201002226,Intel Core Duo,E7500,DDR3,4,SSD,256,Gris
+8,Tomas Aquino,Administrativo,Recursos Humanos,Frente entrada (7-8),Rosa X?,Dell,Optiplex 780,92X9XL1,I1800002201002226,Intel Core Duo,E7500,DDR3,4,SSD,256,Gris
 9,Tomas Aquino,Administrativo,Recursos Humanos,Oficina dentro de cuarto (9),Brenda ?,HP Inc,Compaq 6200 Pro,MXL1500MZJ,1.80E+14,Intel Core 3 series,2120,DDR3,8,HDD,1 TB ,Negro
 10,Tomas Aquino,Administrativo,Recursos Humanos,Cuarto detrás de impresora (10-12),Gabriela ?,Dell,Optiplex 780,H2CDWL1,N/A,Intel Core Duo,7500,DDR3,6,HDD,256,Negro
 11,Tomas Aquino,Administrativo,Recursos Humanos,Cuarto detrás de impresoras (11),?,Dell,Optiplex 745,N/A,N/A,Otro (especificar en sig. pregunta),Pentium D,DDR2,2,HDD,128,Negro
@@ -25,13 +25,13 @@ ID,Unidad del equipo,Subdirección del plantel,Nombre del departamento,Nombre de 
 24,Tomas Aquino,Planeacion,Servicios Escolares,Oficinas Ventanilla,???,Dell,Optiplex 780,379RDC1,I1800002200602225,Intel Core Duo,,DDR3,4,HDD,500 GB,Gris con negro
 25,Tomas Aquino,Planeacion,Servicios Escolares,Oficinas Ventanilla,???,LANIX,Titan HX 4310E,No Accesible ,I1800002201402340,Intel Core 5 series,4590,DDR3,8,HDD,500 GB,Negro
 26,Tomas Aquino,Planeacion,Servicios Escolares,Oficina Ventanilla,Mtro Orozco,Dell,Optiplex 3060,5LCQCV2,I1800000641902134,Intel Core 5 series,8400,DDR4,12,HDD,1 TB ,Negro
-27,Tomas Aquino,Planeacion,Gestión y Vinculación,Oficina Jefe Dpto,Mtro. Artemio Lara,LANIX,Titan HX 4310E,4.28E+17,I1800002201402315,Intel Core 5 series,4590,DDR3,16,HDD,1 TB ,Negro
-28,Tomas Aquino,Planeacion,Gestión y Vinculación ,Oficina Jefe Dpto,??,HP Inc,All in one blanca,N/A,I18000006417022,Otro (especificar en sig. pregunta),Desconocido,DDR3,8,HDD,500 GB,Blanco
-29,Tomas Aquino,Planeacion,Gestión y Vinculación ,Oficina Jefe Dpto,???,HP Inc,All in one,N/A,I18000006417021,Otro (especificar en sig. pregunta),Desconocido,DDR3,8,HDD,500 GB,Blanco
-30,Tomas Aquino,Planeacion,Gestión y Vinculación ,Oficina siguiente Jefe,Rubicela Juárez,LANIX,Titan HX 4310E,4.28E+17,N/A,Intel Core 5 series,4590,DDR3,8,HDD,1 TB ,Negro
-31,Tomas Aquino,Planeacion,Gestión y Vinculación ,Oficina Sig Jefe ,Oficina Servicio Social,Dell,OptiPlex 3020,2YRT382,I1800000641502372,Intel Core 5 series,4590,DDR3,8,HDD,1 TB ,Negro
-32,Tomas Aquino,Planeacion,Gestión y Vinculación ,Oficina Ana y Karen,Karen,HP Inc,Compaq 6200 Pro,MXL1500MZF,N/A,Intel Core 3 series,2120,DDR3,8,SSD,480 GB,Negro
-33,Tomas Aquino,Planeacion,Gestión y Vinculación ,Oficina Ana y Karen,Ana,LANIX,Titan HX 4310E,4.28E+17,I1800002201402316,Intel Core 5 series,4590,DDR3,16,SSD,480 GB,Negro
-34,Tomas Aquino,Planeacion,Gestión y vinculación ,Oficina Entrada,Marisol,HP Inc,Compaq 6200 Pro,MXL1500MYV,N/A,Intel Core 3 series,2120,DDR3,12,HDD,500 GB,Negro
-35,Tomas Aquino,Planeacion,Gestión y vinculación ,Oficina Entrada,???,HP Inc,Compaq 6200 pro,MXL1500MZB,N/A,Intel Core 3 series,2120,DDR3,8,HDD,1 TB ,Negro
-36,Tomas Aquino,Planeacion,Comunicación y Difusión,Almacén Izq Entrada,???,LANIX,Titan HX 4310E,"N/A, cambió de placa madre",I1800002201402181,Intel Core 5 series,4590,DDR3,16,HDD,1 TB ,Negro
+27,Tomas Aquino,Planeacion,Gestion y Vinculacion,Oficina Jefe Dpto,Mtro. Artemio Lara,LANIX,Titan HX 4310E,4.28E+17,I1800002201402315,Intel Core 5 series,4590,DDR3,16,HDD,1 TB ,Negro
+28,Tomas Aquino,Planeacion,Gestion y Vinculacion ,Oficina Jefe Dpto,??,HP Inc,All in one blanca,N/A,I18000006417022,Otro (especificar en sig. pregunta),Desconocido,DDR3,8,HDD,500 GB,Blanco
+29,Tomas Aquino,Planeacion,Gestion y Vinculacion ,Oficina Jefe Dpto,???,HP Inc,All in one,N/A,I18000006417021,Otro (especificar en sig. pregunta),Desconocido,DDR3,8,HDD,500 GB,Blanco
+30,Tomas Aquino,Planeacion,Gestion y Vinculacion ,Oficina siguiente Jefe,Rubicela Juárez,LANIX,Titan HX 4310E,4.28E+17,N/A,Intel Core 5 series,4590,DDR3,8,HDD,1 TB ,Negro
+31,Tomas Aquino,Planeacion,Gestion y Vinculacion ,Oficina Sig Jefe ,Oficina Servicio Social,Dell,OptiPlex 3020,2YRT382,I1800000641502372,Intel Core 5 series,4590,DDR3,8,HDD,1 TB ,Negro
+32,Tomas Aquino,Planeacion,Gestion y Vinculacion ,Oficina Ana y Karen,Karen,HP Inc,Compaq 6200 Pro,MXL1500MZF,N/A,Intel Core 3 series,2120,DDR3,8,SSD,480 GB,Negro
+33,Tomas Aquino,Planeacion,Gestion y Vinculacion ,Oficina Ana y Karen,Ana,LANIX,Titan HX 4310E,4.28E+17,I1800002201402316,Intel Core 5 series,4590,DDR3,16,SSD,480 GB,Negro
+34,Tomas Aquino,Planeacion,Gestion y vinculacion ,Oficina Entrada,Marisol,HP Inc,Compaq 6200 Pro,MXL1500MYV,N/A,Intel Core 3 series,2120,DDR3,12,HDD,500 GB,Negro
+35,Tomas Aquino,Planeacion,Gestion y vinculacion ,Oficina Entrada,???,HP Inc,Compaq 6200 pro,MXL1500MZB,N/A,Intel Core 3 series,2120,DDR3,8,HDD,1 TB ,Negro
+36,Tomas Aquino,Planeacion,Comunicacion y Difusion,Almacén Izq Entrada,???,LANIX,Titan HX 4310E,"N/A, cambio de placa madre",I1800002201402181,Intel Core 5 series,4590,DDR3,16,HDD,1 TB ,Negro
