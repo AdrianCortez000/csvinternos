@@ -1,0 +1,37 @@
+Unidad del equipo,Subdireccion del plantel,Nombre del departamento,Nombre de la oficina o área,Hostname Equipo,Marca del gabinete,Modelo,Serie,Número de Inventario,Modelo CPU,RAM,Descripcion,Tipo disco,Capacidad de almacenamiento secundario,Color del gabinete
+Tomas Aquino,Administrativo,Recursos Humanos,Oficinas RH,Estela,LANIX,Titan HX 4310E,00186-740-390-216,I1800002201402302,Intel Core 5 series,4,512 HDD Negro,HDD,512,Negro
+Tomas Aquino,Administrativo,Recursos Humanos,Oficinas ,Miriam Gomez,Dell,Optiplex 780,3P42WL1,I1800002201002279,Intel Core Duo,4,480 GB SSD Negro,SSD,480 GB,Negro
+Tomas Aquino,Administrativo,Recursos Humanos,Oficinas,Jefa del dpto?,Dell,Optiplex 780,BCMXTL1,I1800000961002798,Intel Core Duo,4,480 GB SSD Gris,SSD,480 GB,Gris
+Tomas Aquino,Administrativo,Recursos Humanos,Oficinas,Jefa de departamento?,Dell,Optiplex 780,HPYCWL1,I1800002201002288,Intel Core Duo,4,500 GB HDD Gris,HDD,500 GB,Gris
+Tomas Aquino,Administrativo,Recursos Humanos,Oficinas,RH Oficinas 1 ,LANIX,Titan HX 4310E,00186-740-031-367,I1800002201402321,Intel Core 5 series,16,480 GB SSD Negro,SSD,480 GB,Negro
+Tomas Aquino,Administrativo,Recursos Humanos,Oficinas,RH Oficinas 2,Dell,Optiplex 780,13X9XL1,I1800002201002350,Intel Core Duo,4,500 GB HDD Negro,HDD,500 GB,Negro
+Tomas Aquino,Administrativo,Recursos Humanos,Área frente a la entrada (7-8),RH Entrada 1,Dell,Optiplex 780,6SBDWL1,I1800002201002178,Intel Core Duo,8,480 GB SSD Gris,SSD,480 GB,Gris
+Tomas Aquino,Administrativo,Recursos Humanos,Frente entrada (7-8),RH Entrada 2,Dell,Optiplex 780,92X9XL1,I1800002201002226,Intel Core Duo,4,256 SSD Gris,SSD,256,Gris
+Tomas Aquino,Administrativo,Recursos Humanos,Oficina dentro de cuarto (9),RH Oficinas 3,HP Inc,Compaq 6200 Pro,MXL1500MZJ,1.80E+14,Intel Core 3 series,8,1 TB  HDD Negro,HDD,1 TB ,Negro
+Tomas Aquino,Administrativo,Recursos Humanos,Cuarto detrás de impresora (10-12),RH Impresoras 1,Dell,Optiplex 780,H2CDWL1,N/A,Intel Core Duo,6,256 HDD Negro,HDD,256,Negro
+Tomas Aquino,Administrativo,Recursos Humanos,Cuarto detrás de impresoras (11),RH Impresoras 2,Dell,Optiplex 745,N/A,N/A,Otro (especificar en sig. pregunta),2,128 HDD Negro,HDD,128,Negro
+Tomas Aquino,Administrativo,Recursos Humanos,Cuarto detrás de impresora (12),RH Impresoras 3,LANIX,Titan HX 4310E,00186-740-031-392,N/A,Intel Core 5 series,8,480 GB SSD Negro,SSD,480 GB,Negro
+Tomas Aquino,Planeacion,Servicios Escolares,Oficina Ventanilla,SE Secretaria ,Dell,Optiplex 780,3ZBDWL1,I1800002201002169,Intel Core Duo,4,480 GB SSD Negro,SSD,480 GB,Negro
+Tomas Aquino,Planeacion,Servicios Escolares,Oficina administrativa ,Zulma,Dell,Optiplex 3060,5MDMCV2,I1800000641802112,Intel Core 5 series,12,1 TB  HDD Negro,HDD,1 TB ,Negro
+Tomas Aquino,Planeacion,Servicios Escolares,Oficina administrativa ,Josué Ramírez,Dell,Optiplex 3060,5LBNCV2,I1800000641802131,Intel Core 5 series,12,1 TB  HDD Negro,HDD,1 TB ,Negro
+Tomas Aquino,Planeacion,Servicios Escolares,Oficina administrativa ,Carla de Alba,Dell,Optiplex 3060,5L9RCV2,I1800000641802111,Intel Core 5 series,12,1 TB  HDD Negro,HDD,1 TB ,Negro
+Tomas Aquino,Planeacion,Servicios Escolares,Next Oficina Administrativa ,Xochitl,LANIX,Titan HX 4310E,4.28E+17,I1800002201402349,Intel Core 5 series,4,500 GB HDD Negro,HDD,500 GB,Negro
+Tomas Aquino,Planeacion,Servicios Escolares,Next Oficina Administrativa ,Barajas,LANIX,Titan HX 4310E,4.28E+17,N/A,Intel Core 5 series,4,500 GB HDD Negro,HDD,500 GB,Negro
+Tomas Aquino,Planeacion,Servicios Escolares,Oficina Cerrada,Doroteo Luna,HP Inc,Compaq 6200 Pro,MXL1500MXX,N/A,Intel Core 3 series,2,500 GB HDD Negro,HDD,500 GB,Negro
+Tomas Aquino,Planeacion,Servicios Escolares,Cuarto Oficina,Norma,HP Inc,Compaq 6200 Pro,MXL1500MZL,N/A,Intel Core 3 series,8,1 TB  HDD Negro con gris,HDD,1 TB ,Negro con gris
+Tomas Aquino,Planeacion,Servicios Escolares,Cuarto Oficina (c13),SE Oficinas 1,Dell,Optiplex 780,H9MXTL1,N/a,Intel Core Duo,8,256 HDD Gris con negro,HDD,256,Gris con negro
+Tomas Aquino,Planeacion,Servicios Escolares,Cuarto Oficina (c10),SE Oficinas 2,Dell,Optiplex 745,GLXQDC1,I1800002200602157,Otro (especificar en sig. pregunta),4,500 GB HDD Gris con negro,HDD,500 GB,Gris con negro
+Tomas Aquino,Planeacion,Servicios Escolares,Oficina Ventanilla,Mtro Orozco,Dell,Optiplex 780,JB4CWL1,1.80E+14,Intel Core Duo,4,500 GB HDD Gris con negro,HDD,500 GB,Gris con negro
+Tomas Aquino,Planeacion,Servicios Escolares,Oficinas Ventanilla,SE Oficinas 3,Dell,Optiplex 780,379RDC1,I1800002200602225,Intel Core Duo,4,500 GB HDD Gris con negro,HDD,500 GB,Gris con negro
+Tomas Aquino,Planeacion,Servicios Escolares,Oficinas Ventanilla,???,LANIX,Titan HX 4310E,No Accesible ,I1800002201402340,Intel Core 5 series,8,500 GB HDD Negro,HDD,500 GB,Negro
+Tomas Aquino,Planeacion,Servicios Escolares,Oficina Ventanilla,Mtro Orozco,Dell,Optiplex 3060,5LCQCV2,I1800000641902134,Intel Core 5 series,12,1 TB  HDD Negro,HDD,1 TB ,Negro
+Tomas Aquino,Planeacion,Gestion y Vinculacion,Oficina Jefe Dpto,Mtro. Artemio Lara,LANIX,Titan HX 4310E,4.28E+17,I1800002201402315,Intel Core 5 series,16,1 TB  HDD Negro,HDD,1 TB ,Negro
+Tomas Aquino,Planeacion,Gestion y Vinculacion ,Oficina Jefe Dpto,??,HP Inc,All in one blanca,N/A,I18000006417022,Otro (especificar en sig. pregunta),8,500 GB HDD Blanco,HDD,500 GB,Blanco
+Tomas Aquino,Planeacion,Gestion y Vinculacion ,Oficina Jefe Dpto,???,HP Inc,All in one,N/A,I18000006417021,Otro (especificar en sig. pregunta),8,500 GB HDD Blanco,HDD,500 GB,Blanco
+Tomas Aquino,Planeacion,Gestion y Vinculacion ,Oficina siguiente Jefe,Rubicela Juárez,LANIX,Titan HX 4310E,4.28E+17,N/A,Intel Core 5 series,8,1 TB  HDD Negro,HDD,1 TB ,Negro
+Tomas Aquino,Planeacion,Gestion y Vinculacion ,Oficina Sig Jefe ,Oficina Servicio Social,Dell,OptiPlex 3020,2YRT382,I1800000641502372,Intel Core 5 series,8,1 TB  HDD Negro,HDD,1 TB ,Negro
+Tomas Aquino,Planeacion,Gestion y Vinculacion ,Oficina Ana y Karen,Karen,HP Inc,Compaq 6200 Pro,MXL1500MZF,N/A,Intel Core 3 series,8,480 GB SSD Negro,SSD,480 GB,Negro
+Tomas Aquino,Planeacion,Gestion y Vinculacion ,Oficina Ana y Karen,Ana,LANIX,Titan HX 4310E,4.28E+17,I1800002201402316,Intel Core 5 series,16,480 GB SSD Negro,SSD,480 GB,Negro
+Tomas Aquino,Planeacion,Gestion y vinculacion ,Oficina Entrada,Marisol,HP Inc,Compaq 6200 Pro,MXL1500MYV,N/A,Intel Core 3 series,12,500 GB HDD Negro,HDD,500 GB,Negro
+Tomas Aquino,Planeacion,Gestion y vinculacion ,Oficina Entrada,???,HP Inc,Compaq 6200 pro,MXL1500MZB,N/A,Intel Core 3 series,8,1 TB  HDD Negro,HDD,1 TB ,Negro
+Tomas Aquino,Planeacion,Comunicacion y Difusion,Almacén Izq Entrada,???,LANIX,Titan HX 4310E,"N/A, cambio de placa madre",I1800002201402181,Intel Core 5 series,16,1 TB  HDD Negro,HDD,1 TB ,Negro
